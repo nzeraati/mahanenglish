@@ -1,0 +1,36 @@
+{
+    "app_id": "com.panel.mahanenglish",
+    "appname": "MahanEnglish",
+    "desktopappname": "MahanEnglish Desktop",
+    "versioncode": 3700,
+    "versionname": "3.7.0",
+    "cache_update_frequency_usually": 420000,
+    "cache_update_frequency_often": 1200000,
+    "cache_update_frequency_sometimes": 3600000,
+    "cache_update_frequency_rarely": 43200000,
+    "default_lang": "en",
+    "languages": {
+        
+        "en": "English"
+       
+    },
+    "wsservice": "moodle_mobile_app",
+    "wsextservice": "local_mobile",
+    "customurlscheme": "moodlemobile",
+    "siteurl": "https:\/\/panel.mahanenglish.com",
+    "sitename": "Mahan English",
+    "multisitesdisplay": "",
+    "skipssoconfirmation": false,
+    "forcedefaultlanguage": false,
+    "privacypolicy": "https:\/\/mahanenglish.com",
+    "notificoncolor": "#f98012",
+    "statusbarbg": false,
+    "statusbarlighttext": false,
+    "statusbarbgios": "#f98012",
+    "statusbarlighttextios": true,
+    "statusbarbgandroid": "#df7310",
+    "statusbarlighttextandroid": true,
+    "statusbarbgremotetheme": "#000000",
+    "statusbarlighttextremotetheme": true,
+    "enableanalytics": false
+}
